@@ -1,0 +1,14 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": true,
+  "editor.fontSize": 18,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "python.defaultInterpreterPath": "/home/jose/workspace/budget_py/venv",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "Bearded Theme Milkshake Mint",
+  "editor.fontFamily": "'Iosevka Nerd Font', 'Droid Sans Mono', 'monospace', monospace"
+}

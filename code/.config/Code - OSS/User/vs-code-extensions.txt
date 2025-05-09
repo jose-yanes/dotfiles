@@ -1,0 +1,5 @@
+beardedbear.beardedtheme
+esbenp.prettier-vscode
+formulahendry.auto-close-tag
+ritwickdey.liveserver
+usernamehw.errorlens
