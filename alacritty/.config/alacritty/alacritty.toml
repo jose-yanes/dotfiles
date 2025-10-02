@@ -12,8 +12,8 @@ size = 14
 [window]
 padding.x = 14
 padding.y = 14
-decorations = "None"
-
+#decorations = "None"
+decorations = "Full"
 [keyboard]
 bindings = [
 { key = "F11", action = "ToggleFullscreen" }
